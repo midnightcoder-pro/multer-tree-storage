@@ -1,13 +1,17 @@
 {
   "name": "multer-tree-storage",
   "version": "1.0.0",
-  "description": "",
+  "description": "Multer custom storage",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/midnightcoder-pro/multer-tree-storage.git"
+  },
   "author": "Midnightcoder",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "mv": "^2.1.1"
   }
